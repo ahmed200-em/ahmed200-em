@@ -42,13 +42,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmed200-em&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed200-em&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-
-### WakaTime Stats
-
-[![Harlok's WakaTime stats](ahmed200-nbrxhvmx0-ahmed200-ems-projects.vercel.app/api/wakatime?username=ahmedelmk23)](https://github.com/anuraghazra/github-readme-stats)
----
 
 ### 📩 **Connect with Me**
 <p align="left">
