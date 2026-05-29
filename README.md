@@ -1,4 +1,4 @@
-![logo](https://github.com/ahmed200-em/ahmed200-em/blob/main/me.png)
+![logo](https://github.com/ahmed200-em/ahmed200-em/blob/main/me2.png)
 
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A passionate Frontend Developer from Morocco 🇲🇦</h3>
@@ -42,7 +42,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmed200-em&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](ahmed200-nbrxhvmx0-ahmed200-ems-projects.vercel.app/api/top-langs/?username=ahmed200-em)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed200-em&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 ### WakaTime Stats
 
