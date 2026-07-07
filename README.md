@@ -43,6 +43,19 @@
 <a href="https://github.com/stats-organization/github-stats-extended">
 <img src="https://github-stats-extended.vercel.app/api/?username=ahmed200-em&show_icons=true&bg_color=00000000&hide_border=true&theme=tokyonight" alt="GitHub Stats"/></a>
 
+---
+
+### GitHub top languages
+
+<a align="center"
+                    href="https://github.com/stats-organization/github-stats-extended"
+                  >
+                    <img
+                      src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmed200-em&show_icons=true&layout=donut-vertical&bg_color=00000001&hide_border=true&theme=tokyonight"
+                      alt="GitHub Stats"
+                    />
+                  </a>
+
 
 ### 📩 **Connect with Me**
 <p align="left">
