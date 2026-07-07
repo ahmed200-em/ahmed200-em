@@ -45,17 +45,10 @@
 
 ---
 
-### GitHub top languages
+### Wakatime Stats
 
-<a align="center"
-                    href="https://github.com/stats-organization/github-stats-extended"
-                  >
-                    <img
-                      src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmed200-em&show_icons=true&layout=donut-vertical&bg_color=00000001&hide_border=true&theme=tokyonight"
-                      alt="GitHub Stats"
-                    />
-                  </a>
-
+<a href="https://github.com/Pranesh-2005/github-readme-stats-fast" target="_blank">
+<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=ahmedelmk23&bg_color=00000000&hide_border=true&theme=tokyonight" alt="WakaTime Stats"/></a>
 
 ### 📩 **Connect with Me**
 <p align="left">
