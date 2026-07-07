@@ -40,7 +40,8 @@
 
 ### GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmed200-em&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+<a href="https://github.com/stats-organization/github-stats-extended">
+<img src="https://github-stats-extended.vercel.app/api/?username=ahmed200-em&show_icons=true&bg_color=00000000&hide_border=true&theme=tokyonight" alt="GitHub Stats"/></a>
 
 
 ### 📩 **Connect with Me**
