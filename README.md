@@ -1,62 +1,93 @@
-![logo](https://github.com/ahmed200-em/ahmed200-em/blob/main/me2.png)
+<p align="center">
+  <a href="https://github.com/ahmed200-em"><img src="./assets/profile-header.svg" alt="Ahmed Elmakrini, frontend or full-stack engineer from Morocco. HTML, CSS, and JavaScript." width="1000"></a>
+</p>
 
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate Frontend Developer from Morocco 🇲🇦</h3>
+<p align="center"><strong>Frontend or full-stack engineer</strong> · Morocco</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed200-em&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  I build web interfaces and applications, from a civic portal for Al Hoceima to a daily planner and a fragrance storefront.
 </p>
 
+<p align="center"><a href="https://github.com/ahmed200-em">GitHub</a> · <a href="#built-shipped-shared">Selected projects</a></p>
 
 ---
 
+## Identity, with signal
 
-### 🚀 **Tech Stack**
+I'm a web developer, full-stack developer, and cyber engineer. My background includes three years of university study and a cybersecurity certification. I focus on **HTML**, **CSS**, and **JavaScript**.
 
-#### 💻 **Languages**
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+| Public repositories | Stars | Contributions | Followers |
+| :-----------------: | :---: | :-----------: | :-------: |
+| **30** | **0** | **364** | **0** |
+
+<sub>Stats from the reference screenshot. <a href="https://github.com/ahmed200-em">View the current GitHub profile.</a></sub>
+
+---
+
+## What moves the work
+
+<p align="center">
+  <img src="./assets/current-focus.svg" alt="Current focus areas: semantic HTML, responsive CSS, and JavaScript interactions." width="1000">
 </p>
 
-#### 🌐 **Frontend**
+I use **HTML** for structure, **CSS** for layouts that adapt to the screen, and **JavaScript** for the behavior people interact with.
 
+---
 
-#### 🔧 **Backend & Databases**
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
+## The tools behind the signal
+
+<p align="center">
+  <img src="./assets/stack-spectrum.svg" alt="Public code snapshot: HTML 36%, CSS 31%, JavaScript 25%, TypeScript 8%, and Shell 0% after rounding." width="1000">
 </p>
 
-#### ⚙️ **Tools**
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+**HTML** · **CSS** · **JavaScript** · **TypeScript** · **Shell**
+
+---
+
+## Built, shipped, shared
+
+<p align="center">
+  <img src="./assets/project-map.svg" alt="Project map featuring Alhoceima-Smart-City, Tempo-Daily-Planner, e-commerce-website, and the reference entry e-commerce-page-react." width="1000">
+</p>
+
+<p align="center">
+  <img src="./assets/project-timeline.svg" alt="Repository creation dates: e-commerce-website on November 1, Tempo-Daily-Planner on November 5, and Alhoceima-Smart-City on November 22, 2026. e-commerce-page-react appears in the reference with no verified date." width="1000">
+</p>
+
+| Project | What it does |
+| --- | --- |
+| [**Alhoceima-Smart-City**](https://github.com/ahmed200-em/Alhoceima-Smart-City)<br>JavaScript · 0 stars | Citizen portal demo for Al Hoceima with municipal services, issue reporting and tracking, local news, events, and live weather. |
+| [**Tempo-Daily-Planner**](https://github.com/ahmed200-em/Tempo-Daily-Planner)<br>TypeScript · 0 stars | A daily timeline for planning tasks, routines, and focus time, with a timer and a weekly activity report. |
+| [**e-commerce-website**](https://github.com/ahmed200-em/e-commerce-website)<br>JavaScript · 0 stars | A responsive fragrance storefront with product details and a demo order flow. |
+| **e-commerce-page-react**<br>JavaScript · 0 stars | Project listed in the reference screenshot. Public repository unavailable. |
+
+---
+
+## Momentum, made visible
+
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/activity-signal.svg">
+    <img src="./assets/activity-signal.gif" alt="Illustrative animated waveform for Ahmed’s HTML, CSS, and JavaScript work." width="1000">
+  </picture>
 </p>
 
 ---
 
-### GitHub Stats
+## The trail behind the work
 
-<a href="https://github.com/stats-organization/github-stats-extended">
-<img src="https://github-stats-extended.vercel.app/api/?username=ahmed200-em&show_icons=true&bg_color=00000000&hide_border=true&theme=tokyonight" alt="GitHub Stats"/></a>
-
----
-
-### Wakatime Stats
-
-<a href="https://github.com/Pranesh-2005/github-readme-stats-fast" target="_blank">
-<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=ahmedelmk23&bg_color=00000000&hide_border=true&theme=tokyonight" alt="WakaTime Stats"/></a>
-
-### 📩 **Connect with Me**
-<p align="left">
-  <a href="https://github.com/ahmed200-em" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Twitter" width="40" height="40"/></a>
-  <a href="https://linkedin.com/in/ahmed200-em" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://web.facebook.com/ahmedem23/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://github.com/ahmed200-em#contribution-activity"><img src="./assets/contribution-trail.svg" alt="Contribution snapshot showing 364 contributions, a four-day streak, and 78 active days." width="1000"></a>
 </p>
 
+**4 day streak** · **78 active days** in the reference screenshot. [See current contribution activity](https://github.com/ahmed200-em#contribution-activity).
+
 ---
 
-⭐ *“Code, Learn, Build, Repeat.”*
+## Make something worth noticing
+
+I like working on web products where a clear interface makes a real task easier. If you have a project like that, find me on GitHub.
+
+<p align="center">
+  <a href="https://github.com/ahmed200-em"><img src="./assets/contact-panel.svg" alt="Open @ahmed200-em on GitHub" width="1000"></a>
+</p>
