@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 316" width="1000" height="316" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution snapshot</title>
+  <desc id="desc">The reference shows 364 contributions, 78 active days, and a four day streak. Each square represents one active day. The layout does not show calendar dates.</desc>
+  <defs>
+    <pattern id="days" x="602" y="100" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect x="4" y="4" width="15" height="15" rx="4" fill="#69e8b8" fill-opacity=".68"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="998" height="314" rx="20" fill="#0b1220" stroke="#293a50" stroke-width="2"/>
+  <path d="M549 36v244" stroke="#293a50" stroke-dasharray="4 6"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text x="36" y="48" fill="#69e8b8" font-size="17" font-weight="700" letter-spacing="2">CONTRIBUTION SNAPSHOT</text>
+    <text x="35" y="150" fill="#eaf3ff" font-size="84" font-weight="700">364</text>
+    <text x="40" y="184" fill="#a0b5cb" font-size="20">contributions</text>
+    <rect x="37" y="215" width="245" height="52" rx="10" fill="#131f34" stroke="#293a50"/>
+    <text x="58" y="247" fill="#b5a2ff" font-size="20" font-weight="700">4 day streak</text>
+    <text x="602" y="75" fill="#eaf3ff" font-size="26" font-weight="700">78 active days</text>
+    <rect x="602" y="100" width="312" height="144" fill="url(#days)"/>
+    <text x="602" y="275" fill="#a0b5cb" font-size="17">Each square is one active day.</text>
+  </g>
+</svg>

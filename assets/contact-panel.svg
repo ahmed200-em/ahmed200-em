@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 116" width="1000" height="116" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Elmakrini on GitHub</title>
+  <desc id="desc">Open the GitHub profile at ahmed200-em.</desc>
+  <rect x="1" y="1" width="998" height="114" rx="20" fill="#0b1220" stroke="#293a50" stroke-width="2"/>
+  <rect x="30" y="30" width="56" height="56" rx="12" fill="#131f34" stroke="#293a50"/>
+  <path d="m47 50 9 8-9 8m14 0h10" fill="none" stroke="#69e8b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text x="111" y="69" fill="#eaf3ff" font-size="30" font-weight="700">@ahmed200-em</text>
+    <text x="918" y="67" fill="#a0b5cb" font-size="22" text-anchor="end">GitHub profile</text>
+  </g>
+  <path d="M939 66l15-15m-10 0h10v10" fill="none" stroke="#69e8b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

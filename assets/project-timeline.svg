@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" role="img" aria-labelledby="index-title index-desc">
+  <title id="index-title">Featured repository timeline</title>
+  <desc id="index-desc">The city portal was created November 22, 2026, the daily planner November 5, 2026, and the storefront website November 1, 2026. The screenshot’s e-commerce-page-react reference entry is undated.</desc>
+  <defs>
+    <style>
+      .label { font: 600 15px ui-monospace, Consolas, monospace; letter-spacing: 2px; fill: #69e8b8; }
+      .heading { font: 650 38px system-ui, sans-serif; letter-spacing: -1.3px; fill: #eaf3ff; }
+      .number { font: 600 17px ui-monospace, Consolas, monospace; fill: #69e8b8; }
+      .name { font: 630 23px system-ui, sans-serif; fill: #eaf3ff; }
+      .note { font: 500 19px system-ui, sans-serif; fill: #a0b5cb; }
+      .language { font: 600 17px ui-monospace, Consolas, monospace; fill: #b5a2ff; }
+    </style>
+  </defs>
+
+  <rect x=".75" y=".75" width="998.5" height="448.5" rx="26" fill="#0b1220" stroke="#293a50" stroke-width="1.5"/>
+  <text x="42" y="51" class="label">REPOSITORY CREATION DATES</text>
+  <text x="42" y="96" class="heading">Project timeline</text>
+  <path d="M42 118H958" stroke="#293a50" stroke-width="1.5"/>
+
+  <g fill="#131f34">
+    <rect x="44" y="139" width="912" height="57" rx="10"/>
+    <rect x="44" y="207" width="912" height="57" rx="10"/>
+    <rect x="44" y="275" width="912" height="57" rx="10"/>
+    <rect x="44" y="343" width="912" height="57" rx="10"/>
+  </g>
+  <path d="M109 151V388" stroke="#435a75" stroke-width="1.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <g fill="#0b1220" stroke="#69e8b8" stroke-width="2">
+    <circle cx="109" cy="168" r="4"/>
+    <circle cx="109" cy="236" r="4"/>
+    <circle cx="109" cy="304" r="4"/>
+    <circle cx="109" cy="372" r="4"/>
+  </g>
+
+  <g class="number">
+    <text x="61" y="174">01</text>
+    <text x="61" y="242">02</text>
+    <text x="61" y="310">03</text>
+    <text x="61" y="378">04</text>
+  </g>
+  <g class="name">
+    <text x="132" y="175">Alhoceima-Smart-City</text>
+    <text x="132" y="243">Tempo-Daily-Planner</text>
+    <text x="132" y="311">e-commerce-website</text>
+    <text x="132" y="379">e-commerce-page-react</text>
+  </g>
+  <g class="note">
+    <text x="520" y="174">Nov 22, 2026</text>
+    <text x="520" y="242">Nov 5, 2026</text>
+    <text x="520" y="310">Nov 1, 2026</text>
+    <text x="520" y="378">Reference entry</text>
+  </g>
+  <g text-anchor="end" class="language">
+    <text x="933" y="174">JavaScript</text>
+    <text x="933" y="242">TypeScript</text>
+    <text x="933" y="310">JavaScript</text>
+    <text x="933" y="378">JavaScript</text>
+  </g>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 435" role="img" aria-labelledby="map-title map-desc">
+  <title id="map-title">Selected repository map</title>
+  <desc id="map-desc">A map of Alhoceima-Smart-City, Tempo-Daily-Planner, and e-commerce-website, alongside the screenshot’s e-commerce-page-react reference entry.</desc>
+  <defs>
+    <pattern id="map-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#293a50" stroke-opacity=".4"/>
+    </pattern>
+    <style>
+      .label { font: 600 15px ui-monospace, Consolas, monospace; letter-spacing: 2px; fill: #69e8b8; }
+      .heading { font: 650 38px system-ui, sans-serif; letter-spacing: -1.3px; fill: #eaf3ff; }
+      .name { font: 630 23px system-ui, sans-serif; fill: #eaf3ff; }
+      .metadata { font: 500 16px ui-monospace, Consolas, monospace; fill: #a0b5cb; }
+      .terminal { fill: #131f34; stroke: #293a50; stroke-width: 1.5; }
+      .line { fill: none; stroke: #435a75; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+      .icon { fill: none; stroke: #69e8b8; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+      .violet { stroke: #b5a2ff; }
+    </style>
+  </defs>
+
+  <rect x=".75" y=".75" width="998.5" height="433.5" rx="26" fill="#0b1220" stroke="#293a50" stroke-width="1.5"/>
+  <rect x="42" y="144" width="916" height="244" rx="16" fill="url(#map-grid)"/>
+  <g>
+    <text x="42" y="51" class="label">SELECTED REPOSITORIES</text>
+    <text x="42" y="96" class="heading">Project map</text>
+    <text x="958" y="91" class="metadata" text-anchor="end">04 PROJECTS</text>
+    <path d="M42 118H958" stroke="#293a50" stroke-width="1.5"/>
+  </g>
+
+  <g aria-hidden="true">
+    <path class="line" d="M437 197H470L500 228 530 197H563M437 335H470L500 304 530 335H563M500 228V304"/>
+    <path fill="#0b1220" stroke="#69e8b8" stroke-width="2" d="m500 253 13 13-13 13-13-13z"/>
+    <circle cx="500" cy="266" r="3.5" fill="#69e8b8"/>
+
+    <rect x="42" y="154" width="395" height="86" rx="14" class="terminal"/>
+    <rect x="563" y="154" width="395" height="86" rx="14" class="terminal"/>
+    <rect x="42" y="292" width="395" height="86" rx="14" class="terminal"/>
+    <rect x="563" y="292" width="395" height="86" rx="14" class="terminal"/>
+
+    <g fill="#0b1220" stroke-width="2">
+      <circle cx="437" cy="197" r="5" stroke="#69e8b8"/>
+      <circle cx="563" cy="197" r="5" stroke="#b5a2ff"/>
+      <circle cx="437" cy="335" r="5" stroke="#69e8b8"/>
+      <circle cx="563" cy="335" r="5" stroke="#b5a2ff"/>
+    </g>
+    <g fill="#182b38">
+      <rect x="61" y="177" width="41" height="41" rx="9"/>
+      <rect x="61" y="315" width="41" height="41" rx="9"/>
+    </g>
+    <g fill="#262540">
+      <rect x="582" y="177" width="41" height="41" rx="9"/>
+      <rect x="582" y="315" width="41" height="41" rx="9"/>
+    </g>
+
+    <path class="icon" d="M72 207v-13l9-5v18m-13 0h28m-15-9 10-4v13m-15-10v3m11-1v3"/>
+    <path class="icon violet" d="M592 191h21v17h-21zM592 196h21m-15-8v6m9-6v6m-9 6h3m3 4h4"/>
+    <path class="icon" d="M70 332h23l-2 14H72l-2-14Zm7 0v-3a4 4 0 0 1 8 0v3"/>
+    <path class="icon violet" d="m598 330-5 5 5 5m9-10 5 5-5 5m-4-13-2 16"/>
+  </g>
+
+  <g>
+    <text x="121" y="194" class="name">Alhoceima-Smart-City</text>
+    <text x="121" y="218" class="metadata">JavaScript</text>
+    <text x="642" y="194" class="name">Tempo-Daily-Planner</text>
+    <text x="642" y="218" class="metadata">TypeScript</text>
+    <text x="121" y="332" class="name">e-commerce-website</text>
+    <text x="121" y="356" class="metadata">JavaScript</text>
+    <text x="642" y="332" class="name">e-commerce-page-react</text>
+    <text x="642" y="356" class="metadata">JavaScript · Reference entry</text>
+  </g>
+</svg>

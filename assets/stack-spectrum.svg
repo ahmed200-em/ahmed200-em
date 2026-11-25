@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 392" width="1000" height="392" role="img" aria-labelledby="title desc">
+  <title id="title">Public code language mix from the reference</title>
+  <desc id="desc">The screenshot records HTML 36 percent, CSS 31 percent, JavaScript 25 percent, TypeScript 8 percent and Shell 0 percent after rounding.</desc>
+  <rect x="1" y="1" width="998" height="390" rx="20" fill="#0b1220" stroke="#293a50" stroke-width="2"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text x="36" y="45" fill="#69e8b8" font-size="17" font-weight="700" letter-spacing="2">LANGUAGE MIX</text>
+    <text x="36" y="88" fill="#eaf3ff" font-size="31" font-weight="700">Public code by language</text>
+    <text x="964" y="45" fill="#a0b5cb" font-size="16" text-anchor="end">REFERENCE SNAPSHOT</text>
+    <path d="M36 110h928" stroke="#293a50"/>
+    <g fill="#131f34">
+      <rect x="264" y="139" width="600" height="12" rx="6"/>
+      <rect x="264" y="183" width="600" height="12" rx="6"/>
+      <rect x="264" y="227" width="600" height="12" rx="6"/>
+      <rect x="264" y="271" width="600" height="12" rx="6"/>
+      <rect x="264" y="315" width="600" height="12" rx="6"/>
+    </g>
+    <g>
+      <rect x="264" y="139" width="216" height="12" rx="6" fill="#ffa284"/>
+      <rect x="264" y="183" width="186" height="12" rx="6" fill="#b5a2ff"/>
+      <rect x="264" y="227" width="150" height="12" rx="6" fill="#f5d282"/>
+      <rect x="264" y="271" width="48" height="12" rx="6" fill="#8cb7ff"/>
+    </g>
+    <g fill="#eaf3ff" font-size="21" font-weight="600">
+      <text x="36" y="151">HTML</text>
+      <text x="36" y="195">CSS</text>
+      <text x="36" y="239">JavaScript</text>
+      <text x="36" y="283">TypeScript</text>
+      <text x="36" y="327">Shell</text>
+    </g>
+    <g fill="#a0b5cb" font-size="21" text-anchor="end">
+      <text x="964" y="151">36%</text>
+      <text x="964" y="195">31%</text>
+      <text x="964" y="239">25%</text>
+      <text x="964" y="283">8%</text>
+      <text x="964" y="327">0%</text>
+    </g>
+    <text x="36" y="364" fill="#a0b5cb" font-size="16">Percentages rounded as shown in the reference.</text>
+  </g>
+</svg>

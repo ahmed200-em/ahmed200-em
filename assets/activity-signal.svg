@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" role="img" aria-labelledby="title description">
+  <title id="title">Development activity signal</title>
+  <desc id="description">Decorative mint and violet waveforms represent Ahmed’s work with HTML, CSS, and JavaScript.</desc>
+  <defs>
+    <pattern id="monitor-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M0 29.5h30M29.5 0v30" fill="none" stroke="#293a50" opacity=".55"/>
+    </pattern>
+    <linearGradient id="pulse" x1="0" x2="1">
+      <stop stop-color="#69e8b8" stop-opacity=".28"/>
+      <stop offset=".32" stop-color="#69e8b8"/>
+      <stop offset=".81" stop-color="#69e8b8"/>
+      <stop offset="1" stop-color="#69e8b8" stop-opacity=".3"/>
+    </linearGradient>
+    <clipPath id="monitor">
+      <rect x="39" y="70" width="922" height="112" rx="12"/>
+    </clipPath>
+  </defs>
+  <rect x="1" y="1" width="998" height="238" rx="22" fill="#0b1220" stroke="#405470" stroke-width="2"/>
+  <circle cx="45" cy="37" r="4" fill="#69e8b8"/>
+  <text x="59" y="44" fill="#eaf3ff" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="22" font-weight="650">Activity signal</text>
+
+  <g clip-path="url(#monitor)">
+    <path d="M39 70h922v112H39z" fill="#131f34"/>
+    <path d="M39 70h922v112H39z" fill="url(#monitor-grid)"/>
+    <path d="M39 126h922" stroke="#374963" stroke-width="1"/>
+    <path d="M39 146h77l18-10 22 10h58l19-29 16 29h92l15 11 14-11h54l20-17 16 17h40l20-30 23 30h70l24-44 27 44h63l13-13 14 13h52l19-23 19 23h62l20-14 17 14h41" fill="none" stroke="#b5a2ff" stroke-width="2" stroke-linejoin="round" opacity=".66"/>
+    <path d="M39 126h46l17-5 21 5h34l17-15 19 15h73l25-38 15 64 21-26h70l15-22 19 22h48l15-11 19 11h58l15-27 18 49 15-22h59l19-15 19 15h46l23-35 16 64 19-29h55l22-14 17 14h51l18-9 17 9h21" fill="none" stroke="url(#pulse)" stroke-width="2.75" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M291 75v102m295-102v102m199-102v102" stroke="#69e8b8" stroke-width="1" stroke-dasharray="2 7" opacity=".3"/>
+    <circle cx="291" cy="88" r="4.5" fill="#69e8b8"/>
+    <circle cx="586" cy="99" r="4.5" fill="#69e8b8"/>
+    <circle cx="785" cy="91" r="4.5" fill="#69e8b8"/>
+  </g>
+  <rect x="39" y="70" width="922" height="112" rx="12" fill="none" stroke="#293a50"/>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="17">
+    <text x="39" y="215" fill="#a0b5cb">HTML / CSS / JavaScript</text>
+    <text x="961" y="215" fill="#a0b5cb" text-anchor="end">ahmed200-em</text>
+  </g>
+</svg>
